@@ -1,0 +1,6 @@
+:root { color-scheme: light dark; }
+body { max-width: 44rem; margin: 0 auto; padding: 2.5rem 1rem 4rem; font: 16px/1.65 system-ui, -apple-system, "Segoe UI", sans-serif; }
+h1 { font-size: 1.6rem; margin-bottom: .25rem; }
+h2 { font-size: 1.1rem; margin-top: 2rem; }
+.updated { color: #6b7280; font-size: .9rem; margin-top: 0; }
+nav a { margin-right: 1rem; }
